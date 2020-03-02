@@ -1,0 +1,9 @@
+﻿Public Class Main
+	Private Sub Main_Activated(sender As Object, e As EventArgs) Handles Me.Activated
+
+	End Sub
+
+	Private Sub Main_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+	End Sub
+End Class
